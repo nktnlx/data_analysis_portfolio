@@ -67,6 +67,7 @@ In this section I will provide links to my github repositories containing code a
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
 - [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)
 - [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Dec 2020) (Tinkoff Education) 
 - [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Oct 2020) (Coursera - Duke University)

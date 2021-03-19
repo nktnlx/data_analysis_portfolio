@@ -42,7 +42,7 @@ In this section I will provide links to my github repositories containing code a
 **Status:** The course is currently in progress.  
 
 ### Data Analysis Course Tinkoff-MSU
-**Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..
+**Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
 **Repository:** Check the repository having my code and solutions for home-tasks and projects of the course.  ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
 **Status:** The course is currently in progress.  
 

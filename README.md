@@ -14,6 +14,7 @@ Looking for a Data Analyst job, open for starting positions or internship.
 	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 - [Study Projects](#study-projects)
 	+ [Data Analysis Course](#data-analysis-course)
+	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
 	+ [Learning SQL](#learning-sql)
 	+ [Python Developer Track](#python-developer-track)
 	+ [Computer Science Career Path](#computer-science-career-path)
@@ -38,6 +39,11 @@ In this section I will provide links to my github repositories containing code a
 ### Data Analysis Course
 **Description:** This is a 5 month course by [karpov.courses](https://karpov.courses/analytics). The course includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
 **Repository:** Check the repository having 18 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
+**Status:** The course is currently in progress.  
+
+### Data Analysis Course Tinkoff-MSU
+**Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..
+**Repository:** Check the repository having my code and solutions for home-tasks and projects of the course.  ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
 **Status:** The course is currently in progress.  
 
 ### Learning SQL

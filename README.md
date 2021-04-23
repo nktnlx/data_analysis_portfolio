@@ -20,6 +20,7 @@ Looking for a Data Analyst job, open for starting positions or internship.
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
+	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -34,11 +35,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or just having fun with.
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
 ### Data Analysis Course
 **Description:** This is a 5 month course by [karpov.courses](https://karpov.courses/analytics). The course includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
-**Repository:** Check the repository having 18 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
+**Repository:** Check the repository having 32 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
 **Status:** The course is currently in progress.  
 
 ### Data Analysis Course Tinkoff-MSU
@@ -71,6 +72,10 @@ In this section I will provide links to my github repositories containing code a
 **Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
 **Status:** ∞  
 
+### Tableau Vizzes
+**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
+**Status:** ∞  
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Data Analyst Professional Development Programme](https://drive.google.com/file/d/1AaQZDtG7eGg9GymQyB2MRqFceUJk_JDt/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
@@ -90,3 +95,4 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 ## Contacts
 - Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
 - E-mail: nktn.lx@gmail.com
+- Telegram: [@nktnlx](https://t.me/nktnlx)

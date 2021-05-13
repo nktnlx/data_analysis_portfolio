@@ -6,7 +6,7 @@ Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) 
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
-Looking for a Data Analyst job, open for starting positions or internship.
+Looking for a Data Analyst job, open for starting positions or internship. ---> [go to CV..](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
 
 ## Table of contents
 - [About](#about)
@@ -91,7 +91,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
 - [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
 - [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 — Proficient English User (C1)) (Apr 2014)
+- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
 - Telegram: [@nktnlx](https://t.me/nktnlx)

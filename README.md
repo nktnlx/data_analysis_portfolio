@@ -91,8 +91,9 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
 - [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
 - [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
+- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 — Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
-- E-mail: nktn.lx@gmail.com
 - Telegram: [@nktnlx](https://t.me/nktnlx)
+- E-mail: nktn.lx@gmail.com
+- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)

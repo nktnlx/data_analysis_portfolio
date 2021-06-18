@@ -12,6 +12,10 @@ Looking for a Data Analyst job, open for starting positions or internship ---> [
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
+	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
+	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
 	+ [Data Analysis Course](#data-analysis-course)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
@@ -28,11 +32,46 @@ Looking for a Data Analyst job, open for starting positions or internship ---> [
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Video Games Sales Analysis
-**Filename:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
+
+### A Mobile Game Data Analysis
+**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
+**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf) 
+**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks:
+* Find and visualize retention,
+* Make a decision based on the A/B test data,
+* Suggest a number of metrics to evaluate the results of the last monthly campaign.  
+**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.  
+**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+
+### A Landing Page Design Experiment
+**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
+**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf) 
+**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants). 
+**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.  
+**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
+
+### Online Advertising Campaign Analysis
+**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
+**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf) 
+**Description:** My submission to Yandex Advertising Analytics internship program. 
+**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
+**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category. 
+
+### Airbnb Listings Analytics 
+**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
+**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf) 
+**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month. 
+**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.
+**Technology:** Tableau.  
+**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.

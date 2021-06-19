@@ -75,23 +75,23 @@ In this section I will provide links to my github repositories containing code a
 
 ### Data Analysis Course
 **Description:** This is a 5 month course by [karpov.courses](https://karpov.courses/analytics). The course includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
-**Repository:** Check the repository having 32 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
-**Status:** The course is currently in progress.  
+**Repository:** Check the repository having 37 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
+**Status:** Completed in June 2021 (please, check certificates section below).  
 
 ### Data Analysis Course Tinkoff-MSU
 **Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
 **Repository:** Check the repository having my code and solutions for home-tasks and projects of the course ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
-**Status:** The course is currently in progress.  
+**Status:** Completed in May 2021 (please, check certificates section below).   
 
 ### Learning SQL
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/)  
-**Repository:** Check the repository having 350+ SQL queries ---> [go to repo..](https://github.com/nktnlx/learning_SQL)  
-**Status:** Some of courses are still in progress.  
+**Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/nktnlx/learning_SQL)  
+**Status:** Some of the courses are still in progress.  
 
 ### Python Developer Track
 **Description:** 25 projects, 154 hours, 300 topics python developer track from [JetBrains Academy](https://hyperskill.org/tracks/2)  
 **Repository:** Check the repository having 11 completed projects including: Hangman, Tic-Tac-Toe, Rock-Paper-Scissors games; Matrix calculator, own-coded Regex engine, To-Do list, etc. ---> [go to repo..](https://github.com/nktnlx/jetbrains_python_developer)  
-**Status:** Completed 11 projects, studied 116 topics from the track to practice my python skills. Will revert back to the track when I'm done with Data Analytics curriculum.  
+**Status:** Completed 11 projects, studied 116 topics from the track to practice my python skills. Will revert back to the track later.  
 
 ### Computer Science Career Path
 **Description:** 20 weeks Computer Science Career Path from [Codecademy](https://www.codecademy.com/learn/paths/computer-science). The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.  
@@ -105,7 +105,7 @@ In this section I will provide links to my github repositories containing code a
 
 ### Side Projects
 **Description:** Side projects and various code snippets I'm having fun with.  
-**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
+**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
 **Status:** ∞  
 
 ### Tableau Vizzes

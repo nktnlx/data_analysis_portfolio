@@ -2,7 +2,8 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. Now I'm in transition to Data Analytics and Data Science because the world of data is not limited only to geoscience and I find myself being constantly fascinated by insights Data can reveal.  
+Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. Now I'm in transition to Data Analytics and Data Science because the world of data is not limited only to geoscience and I find myself being constantly fascinated by insights Data can reveal.    
+I have recently achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
@@ -84,7 +85,7 @@ In this section I will provide links to my github repositories containing code a
 **Status:** Completed in May 2021 (please, check certificates section below).   
 
 ### Learning SQL
-**Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/)  
+**Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/), etc.      
 **Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/nktnlx/learning_SQL)  
 **Status:** Some of the courses are still in progress.  
 

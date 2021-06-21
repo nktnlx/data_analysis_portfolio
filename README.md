@@ -6,7 +6,7 @@ Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) 
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
-Looking for a Data Analyst job, open for starting positions or internship. ---> [go to CV..](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
+Looking for a Data Analyst job, open for starting positions or internship ---> [go to CV..](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
 
 ## Table of contents
 - [About](#about)
@@ -44,7 +44,7 @@ In this section I will provide links to my github repositories containing code a
 
 ### Data Analysis Course Tinkoff-MSU
 **Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
-**Repository:** Check the repository having my code and solutions for home-tasks and projects of the course.  ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
+**Repository:** Check the repository having my code and solutions for home-tasks and projects of the course ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
 **Status:** The course is currently in progress.  
 
 ### Learning SQL
@@ -78,6 +78,7 @@ In this section I will provide links to my github repositories containing code a
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
 - [Data Analyst Professional Development Programme](https://drive.google.com/file/d/1AaQZDtG7eGg9GymQyB2MRqFceUJk_JDt/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
 - [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
 - [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)

@@ -7,7 +7,8 @@ I have recently achieved the 7th place at the open Data Analyst 2021 competition
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
-Looking for a Data Analyst job, open for starting positions or internship ---> [go to CV..](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
+Looking for a Data Analyst job, open for starting positions or internship.  
+Please, check my CV ---> [ENG](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_eng.pdf) | [RUS](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
 
 ## Table of contents
 - [About](#about)

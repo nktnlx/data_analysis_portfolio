@@ -2,13 +2,12 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. Now I'm in transition to Data Analytics and Data Science because the world of data is not limited only to geoscience and I find myself being constantly fascinated by insights Data can reveal.    
+Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company now.    
 I have recently achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
-Looking for a Data Analyst job, open for starting positions or internship.  
-Please, check my CV ---> [ENG](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_eng.pdf) | [RUS](https://github.com/nktnlx/data_analysis_portfolio/blob/main/anikitin_data_product_analyst_cv_ru.pdf)
+  
 
 ## Table of contents
 - [About](#about)

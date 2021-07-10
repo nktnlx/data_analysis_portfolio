@@ -117,6 +117,7 @@ In this section I will provide links to my github repositories containing code a
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Jira and Confluence basics](https://drive.google.com/file/d/1dTCQGwKoEjBWmeaXHuktiEyYtRvvLPY-/view?usp=sharing) (Jun 2021) (GeekBrains)
 - [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
+- [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (May 2021) (Tinkoff Education)
 - [Data Analyst Professional Development Programme](https://drive.google.com/file/d/1AaQZDtG7eGg9GymQyB2MRqFceUJk_JDt/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
 - [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
 - [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)

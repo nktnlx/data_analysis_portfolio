@@ -115,6 +115,7 @@ In this section I will provide links to my github repositories containing code a
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
 - [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
 - [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
 - [Jira and Confluence basics](https://drive.google.com/file/d/1dTCQGwKoEjBWmeaXHuktiEyYtRvvLPY-/view?usp=sharing) (Jun 2021) (GeekBrains)

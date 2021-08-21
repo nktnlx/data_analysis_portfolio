@@ -18,8 +18,8 @@ This is a repository that I have created to showcase skills, share projects and 
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
-        + [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)  
-	+ [Data Analysis Course](#data-analysis-course)
+	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
 	+ [Learning SQL](#learning-sql)
 	+ [Python Developer Track](#python-developer-track)
@@ -76,7 +76,7 @@ In this section I will list data analytics projects briefly describing the techn
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
 ### Kaggle 30 Days of ML
-**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.
+**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
 **Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
 **Status:** in progress..  
 

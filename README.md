@@ -18,6 +18,7 @@ This is a repository that I have created to showcase skills, share projects and 
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
+        + [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analysis-course)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
 	+ [Learning SQL](#learning-sql)
@@ -74,15 +75,20 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
+### Kaggle 30 Days of ML
+**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.
+**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
+**Status:** in progress..  
+
 ### Data Analyst Specialization
 **Description:** This is a 5 month specialization by [karpov.courses](https://karpov.courses/analytics). The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
 **Repository:** Check the repository having 37 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
-**Status:** Completed in July 2021 (please, check certificates section below).  
+**Status:** Completed in July 2021 (please, check the certificates section below).  
 
 ### Data Analysis Course Tinkoff-MSU
 **Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
 **Repository:** Check the repository having my code and solutions for home-tasks and projects of the course ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
-**Status:** Completed in May 2021 (please, check certificates section below).   
+**Status:** Completed in May 2021 (please, check the certificates section below).   
 
 ### Learning SQL
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/), etc.      
@@ -97,7 +103,7 @@ In this section I will provide links to my github repositories containing code a
 ### Computer Science Career Path
 **Description:** 20 weeks Computer Science Career Path from [Codecademy](https://www.codecademy.com/learn/paths/computer-science). The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.  
 **Repository:** Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> [go to repo..](https://github.com/nktnlx/cs_path_codecademy)  
-**Status:** Completed in July 2020 (please, check certificates section below).  
+**Status:** Completed in July 2020 (please, check the certificates section below).  
 
 ### Google Python Class
 **Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  

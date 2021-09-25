@@ -106,7 +106,7 @@ In this section I will provide links to my github repositories containing code a
 
 ### Side Projects
 **Description:** Side projects and various code snippets I'm having fun with.  
-**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
+**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, [Google Sheets Course by Yandex Praktikum](https://practicum.yandex.ru/excel-for-work/), etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
 **Status:** ∞  
 
 ### Tableau Vizzes

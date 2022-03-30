@@ -2,10 +2,10 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company now.    
-I have recently achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company since June 2021.    
+Achieved the 7th place at an open Data Analyst 2021 competition held by [Career Factory](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
 <br>
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
   
 
@@ -18,6 +18,7 @@ This is a repository that I have created to showcase skills, share projects and 
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
+    + [sklearn ML course](#sklearn-ML-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
@@ -75,10 +76,15 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
+### sklearn ML course
+**Description:** Machine Learning in Python with scikit-learn by France Université Numérique [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/). This course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
+**Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> [go to repo..](https://github.com/nktnlx/sklearn_ml_course)  
+**Status:** in progress..  
+
 ### Kaggle 30 Days of ML
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
 **Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
-**Status:** in progress..  
+**Status:** Completed in August 2021 (please, check the certificates section below).    
 
 ### Data Analyst Specialization
 **Description:** This is a 5 month specialization by [karpov.courses](https://karpov.courses/analytics). The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  

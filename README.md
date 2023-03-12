@@ -25,6 +25,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
+	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
@@ -82,6 +83,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### ab testing course by google
+**Description:** A/B Testing Course by Google. [The course official page](https://www.udacity.com/course/ab-testing--ud257?autoenroll=true).  
+This 1 month course  covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.  
+**Repository:** Check the repository having my notes and useful links on A/B testing based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/ab_testing_by_google_udacity)  
+**Status:** Completed in February 2023 (please, check the certificates section below).  
 
 ### sklearn ml course
 **Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  

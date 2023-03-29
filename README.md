@@ -12,7 +12,7 @@ My Data Analytics blog on [Medium](https://medium.com/@nktn.lx)
 My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
 
 <br>
-This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
   
 
@@ -25,6 +25,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
+	- [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
@@ -84,9 +85,15 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
+### data structures and algorithms in python
+**Description:** Data Structures & Algorithms in Python on Udacity by Google. [The course official page](https://learn.udacity.com/courses/ud513).  
+This 1 month course introduces common data structures and algorithms in Python. It overviews frequently-asked technical interview questions and teaches how to structure your responses.  
+**Repository:** Check the repository having my notes and useful links on Data Structures & Algorithms in Python based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/algorithms_by_google_udacity)  
+**Status:** Completed in March 2023 (please, check the certificates section below).  
+
 ### ab testing course by google
 **Description:** A/B Testing Course by Google. [The course official page](https://www.udacity.com/course/ab-testing--ud257?autoenroll=true).  
-This 1 month course  covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.  
+This 1 month course covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.  
 **Repository:** Check the repository having my notes and useful links on A/B testing based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/ab_testing_by_google_udacity)  
 **Status:** Completed in February 2023 (please, check the certificates section below).  
 
@@ -142,6 +149,7 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Data Structures & Algorithms in Python](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Mar 2023) (Udacity - Google)
 - [A/B Testing](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2023) (Udacity - Google)
 - [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
 - [sklearn ML course](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)

@@ -24,8 +24,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
-- [Study Projects](#study-projects)  
-	- [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
+- [Study Projects](#study-projects)
+	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
+	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
@@ -84,6 +85,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### algorithms training by yandex
+**Description:** Algorithms Training 3.0 by Yandex. [The course official page](https://yandex.ru/yaintern/algorithm-training).  
+This 1 month algorithms and data structures coding journey explores such topics as stacks, queues, dynamic programming, graphs, DFS, BFS, etc.  
+**Repository:** Check the repository having my notes and solutions on Algorithms Training 3.0 by Yandex based on the course lectures, tasks and materials ---> [go to repo..](https://github.com/nktnlx/algorithms_training/tree/main/algo_trainings_3)  
+**Status:** Completed in April 2023 (please, check the certificates section below).  
 
 ### data structures and algorithms in python
 **Description:** Data Structures & Algorithms in Python on Udacity by Google. [The course official page](https://learn.udacity.com/courses/ud513).  

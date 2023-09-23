@@ -25,6 +25,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
+  	+ [Advanced A/B Testing Course](#advanced-ab-testing-course)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
@@ -84,7 +85,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+
+### advanced ab testing course
+**Description:** Advanced A/B testing course by [karpov.courses](https://karpov.courses/simulator-ab). 
+This self-paced course explores such topics as Basics of Statistics, Hypothesis testing, Experimental design, Design testing, Confidence intervals, Improving test sensitivity, Metric selection, Cuped, Stratification, Multiple testing, Traffic splitting, Analysis of ratio metrics (Linearization and Delta Method) and a Complete A/B testing pipeline. All with an extensive coding practice in Python.
+**Repository:** Check the repository having my solutions on Advanced A/B testing course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
+**Status:** Completed in June 2023 (please, check the certificates section below).  
 
 ### algorithms training by yandex
 **Description:** Algorithms Training 3.0 by Yandex. [The course official page](https://yandex.ru/yaintern/algorithm-training).  
@@ -156,6 +163,7 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
 - [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
 - [Data Structures & Algorithms in Python](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Mar 2023) (Udacity - Google)
 - [A/B Testing](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2023) (Udacity - Google)

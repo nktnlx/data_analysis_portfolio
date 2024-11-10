@@ -2,8 +2,11 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.      
-Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company. Here is my Data Analyst's career path:
+- Sep 2024 --> Team Lead
+- Oct 2023 --> Senior Data Analyst
+- May 2022 --> Middle Data Analyst
+- Jun 2021 --> Data Analyst
 
 My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
 
@@ -18,13 +21,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
+  	+ [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
   	+ [Advanced A/B Testing Course](#advanced-ab-testing-course)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
@@ -39,59 +37,29 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
+	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
+	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
-
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
-
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
-
-### A Landing Page Design Experiment
-**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
-**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
-**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
-**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
-**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
-
-### Online Advertising Campaign Analysis
-**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
-**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)    
-**Description:** My submission to Yandex Advertising Analytics internship program.    
-**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
-**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category. 
-
-### Airbnb Listings Analytics 
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
-**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf)   
-**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.    
-**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
-**Technology:** Tableau.    
-**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
 
+### advanced data analysis course
+**Description:** Advanced Data Analysis course (Hard DA) by [karpov.courses](https://karpov.courses/analytics-hard).   
+This is a 6 month course designed for Middle Data Analysts who wants to advance to Senior positions. The course is focused on product-oriented approach to BI reporting, big data processing and working with DWH team, advanced A/B testing techniques and Machine Learning approaches for solving analytical problems.  
+**Repository:** Check the repository having my solutions on Advanced Data Analysis course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/advanced_data_analysis_course)    
+**Status:** Completed in January 2024 (please, check the certificates section below).  
+
 ### advanced ab testing course
-**Description:** Advanced A/B testing course by [karpov.courses](https://karpov.courses/simulator-ab). 
-This self-paced course explores such topics as Basics of Statistics, Hypothesis testing, Experimental design, Design testing, Confidence intervals, Improving test sensitivity, Metric selection, Cuped, Stratification, Multiple testing, Traffic splitting, Analysis of ratio metrics (Linearization and Delta Method) and a Complete A/B testing pipeline. All with an extensive coding practice in Python.
-**Repository:** Check the repository having my solutions on Advanced A/B testing course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)  
-**Status:** Completed in June 2023 (please, check the certificates section below).  
+**Description:** Advanced A/B testing course by [karpov.courses](https://karpov.courses/simulator-ab).   
+This self-paced course explores such topics as Basics of Statistics, Hypothesis testing, Experimental design, Design testing, Confidence intervals, Improving test sensitivity, Metric selection, Cuped, Stratification, Multiple testing, Traffic splitting, Analysis of ratio metrics (Linearization and Delta Method) and a Complete A/B testing pipeline. All with an extensive coding practice in Python.  
+**Repository:** Check the repository having my solutions on Advanced A/B testing course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/ab_testing_advanced_course)    
+**Status:** Completed in June 2023 (please, check the certificates section below).    
 
 ### algorithms training by yandex
 **Description:** Algorithms Training 3.0 by Yandex. [The course official page](https://yandex.ru/yaintern/algorithm-training).  
@@ -161,8 +129,51 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
 **Status:** ∞  
 
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Video Games Sales Analysis
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+
+### A Mobile Game Data Analysis
+**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
+**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
+**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
+**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
+**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+
+### A Landing Page Design Experiment
+**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
+**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
+**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
+**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
+**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
+
+### Online Advertising Campaign Analysis
+**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
+**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)    
+**Description:** My submission to Yandex Advertising Analytics internship program.    
+**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
+**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category. 
+
+### Airbnb Listings Analytics 
+**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
+**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf)   
+**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.    
+**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
+**Technology:** Tableau.    
+**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
+
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Advanced Data Analysis Course (Hard DA)](https://drive.google.com/file/d/1B1oePEqOKA7U06JQ8ZaZOrwr4sUFW39u/view) (Jan 2024) (karpov.courses)
 - [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
 - [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
 - [Data Structures & Algorithms in Python](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Mar 2023) (Udacity - Google)

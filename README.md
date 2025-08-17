@@ -17,7 +17,7 @@ My article on Habr on matching two open data datasets with help of Machine Learn
 
 My Data Analytics blog on [Medium](https://medium.com/@nktn.lx)   
 
-My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
+My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_cv_eng.pdf) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
@@ -201,6 +201,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [A/B Week by Data Analysis School](https://drive.google.com/file/d/1udDO7Poeuk94AM4oiFxGyqLNoFAdikPb/view) (Jul 2025) (Yandex SHAD)
 - [Machine Learning Engineer Course](https://drive.google.com/file/d/1qAA_Obet3EZ0UXo10vwjjhJHhZhsle6F/view?usp=sharing) (Jun 2025) (karpov.courses X AI Talent Hub ITMO University)
 - [Advanced Data Analysis Course (Hard DA)](https://drive.google.com/file/d/1B1oePEqOKA7U06JQ8ZaZOrwr4sUFW39u/view) (Jan 2024) (karpov.courses)
 - [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)

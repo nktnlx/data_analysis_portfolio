@@ -3,7 +3,7 @@
 ## About
 
 Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company. Here is my Data Analyst's career path:
-- Sep 2024 --> Team Lead
+- Sep 2024 --> A/B-testing Platform Lead
 - Oct 2023 --> Senior Data Analyst
 - May 2022 --> Middle Data Analyst
 - Jun 2021 --> Data Analyst
@@ -22,7 +22,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Study Projects](#study-projects)
-  	+ [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
+  	+ [Machine Learning Engineer Course](#machine-learning-engineer-course)
+    + [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
   	+ [Advanced A/B Testing Course](#advanced-ab-testing-course)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
 	+ [Data Structures & Algorithms in Python](#data-structures-and-algorithms-in-python)
@@ -38,6 +39,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Portfolio Projects](#portfolio-projects)
+    + [MLDev Predictive Healthcare Service](#mldev-predictive-healthcare-service)
+	+ [MLOps Wine Quality Prediction Project](#mlops-wine-quality-prediction-project)
 	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
@@ -48,6 +51,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+
+### machine learning engineer course
+**Description:** Machine Learning Engineer course by [karpov.courses X AI Talent Hub ITMO University](https://karpov.courses/ml-engineering).   
+This is a 9 month course designed for data professionals. This course is an exhaustive basis for a career in Machine Learning and Data Science. The course program is built in a way that a graduate of the course can perform any stages of an ML engineer's work: from data collection and the application of classical algorithms, to training neural networks and A/B testing.  
+**Repository:** Check the repository having my solutions on Machine Learning Engineer course tasks and challenges ---> [go to repo..](https://github.com/nktnlx/mle_course)    
+**Status:** Completed in June 2025 (please, check the certificates section below).  
 
 ### advanced data analysis course
 **Description:** Advanced Data Analysis course (Hard DA) by [karpov.courses](https://karpov.courses/analytics-hard).   
@@ -132,6 +141,20 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### MLDev Predictive Healthcare Service
+**Code:** [go to repo..](https://github.com/nktnlx/mle_course/tree/main/08_final_project)     
+**Description:** This s a predictive healthcare service that, based on users’ health information, can predict the probability of developing cardiovascular-related diseases. For users with an elevated risk, the service offers to book a doctor’s appointment or undergo a medical check-up with one of the service’s external partners.    
+**Skills:** ML, MLOps, MLDev, API delployment, Containerization of a Machine Learning services, UI for ML Service.    
+**Technology:** Python, Pandas, Numpy, sklearn, catboost, Optuna, FastAPI, RabbitMQ, PostgreSQL, Streamlit, Docker.   
+**Results:** The service is built on a modular and scalable architecture using modern technologies to ensure efficiency and ease of deployment, development, evolution, and maintenance. The `FastAPI` framework is used to create the endpoints, providing a high-performance backend for processing client requests and managing interactions with the service. For scaling and load distribution, `RabbitMQ` is employed as a message broker. This allows for launching the necessary number of ML worker containers to process prediction tasks in parallel, significantly increasing the service's throughput under high load. The user interface is built with `Streamlit`, offering a simple and interactive way for users to interact with the service and submit prediction tasks. All components, including the `API`, workers, and the interface, are packaged into `Docker` containers, which makes deploying and scaling the service fast, simple, and convenient. Prediction results and their associated data are stored in a `PostgreSQL` database, ensuring reliable data storage.  
+
+### MLOps Wine Quality Prediction Project
+**Code:** [go to repo..](https://github.com/nktnlx/mle_course/tree/main/04_mlops/06_mlops_project)     
+**Description:** This project aims to develop a machine learning service for predicting wine quality. The project includes data loading, model training, model evaluation, and API deployment using `FastAPI`. It uses `Airflow` for orchestrating model training, `DVC` for data version control and `ClearML` for tracking model retraining experiments.  
+**Skills:** ML, MLOps, MLDev, ML pipelines orchestration, ML model experiments tracking, Data version control, API delployment.    
+**Technology:** Python, Pandas, Numpy, sklearn, CLearML, Airflow, DVC, FastAPI.  
+**Results:** This project demonstrates a complete pipeline for the development, training, deployment, and testing of a machine learning model using Python, Airflow, DVC, ClearML and FastAPI. Thus, we have a solid foundation for deploying and using machine learning services.  
+
 ### Video Games Sales Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
@@ -173,6 +196,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Machine Learning Engineer Course](https://drive.google.com/file/d/1qAA_Obet3EZ0UXo10vwjjhJHhZhsle6F/view?usp=sharing) (Jun 2025) (karpov.courses X AI Talent Hub ITMO University)
 - [Advanced Data Analysis Course (Hard DA)](https://drive.google.com/file/d/1B1oePEqOKA7U06JQ8ZaZOrwr4sUFW39u/view) (Jan 2024) (karpov.courses)
 - [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
 - [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
@@ -204,5 +228,4 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 ## Contacts
 - LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)
 - Telegram: [@nktnlx](https://t.me/nktnlx)
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
 - E-mail: nktn.lx@gmail.com

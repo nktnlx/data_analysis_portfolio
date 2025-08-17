@@ -2,11 +2,16 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company. Here is my Data Analyst's career path:
+Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently an A/B-testing Platform Lead at a Fintech company. Here is my career path in Data Science:
 - Sep 2024 --> A/B-testing Platform Lead
 - Oct 2023 --> Senior Data Analyst
 - May 2022 --> Middle Data Analyst
 - Jun 2021 --> Data Analyst
+- Mar 2018 --> CTO in a technological startup
+- Jan 2015 --> Head of Data Processing Department
+- Jun 2012 --> Senior Data Processing Engineer
+- Oct 2010 --> Middle Data Processing Engineer
+- Sep 2008 --> Data Processing Engineer
 
 My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
 

@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. Currently I'm an A/B-testing Platform Lead in a Fintech company. Here is my career path in Data Science:
+Hi, I'm Aleksandr! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Data Processing Department and CTO in a technological startup. Currently I'm an A/B-testing Platform Lead in a Fintech company. Here is my career path in Data Science:
 - Sep 2024 --> A/B-testing Platform Lead
 - Oct 2023 --> Senior Data Analyst
 - May 2022 --> Middle Data Analyst
@@ -201,8 +201,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [A/B Week by Data Analysis School](https://drive.google.com/file/d/1udDO7Poeuk94AM4oiFxGyqLNoFAdikPb/view) (Jul 2025) (Yandex SHAD)
-- [Machine Learning Engineer Course](https://drive.google.com/file/d/1qAA_Obet3EZ0UXo10vwjjhJHhZhsle6F/view?usp=sharing) (Jun 2025) (karpov.courses X AI Talent Hub ITMO University)
+- [A/B Week by Data Analysis School](https://drive.google.com/file/d/1Owsu5QcT198xIWMMI8e8VQA8XPAq1kIn/view) (Jul 2025) (Yandex SHAD)
+- [Machine Learning Engineer Course RUS](https://drive.google.com/file/d/1DoBHS-omBIcFSZX0wTpcQEvTyqPMVhJ9/view) (Jun 2025) (ITMO University AI Talent Hub)
+- [Machine Learning Engineer Course ENG](https://drive.google.com/file/d/1qAA_Obet3EZ0UXo10vwjjhJHhZhsle6F/view) (Jun 2025) (karpov.courses)
 - [Advanced Data Analysis Course (Hard DA)](https://drive.google.com/file/d/1B1oePEqOKA7U06JQ8ZaZOrwr4sUFW39u/view) (Jan 2024) (karpov.courses)
 - [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
 - [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
